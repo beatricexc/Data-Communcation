@@ -1,24 +1,28 @@
+# Computer Networking 
+## A top-down Approach
+
+
+
 Socket interface = set of rules the sending program must follow so that the Internet can deliver the data to the destination program 
 
  
 
-Protocol = the format and the order of messages exchanged between two or more communicating entities , as well as the action taken on the transmission and/or receipt of a message or other event. 
+**Protocol** = the format and the order of messages exchanged between two or more communicating entities , as well as the action taken on the transmission and/or receipt of a message or other event. 
 
  
 
  
-
-End system = hosts = devices connected to the internet ( referred to as end systems because they sit at the Internet's edge) . We call them hosts because they host (ie run) application programs such as a Web browser program, a Web Server program, an email client program, or an e-mail server program. 
-
- 
-
-Clients = desktop + Mobile PCs, smartphones etc. 
-
-Severs = more powerful machines that store and distribute web pages, stream video, relay e-mail etc 
+**End system** = hosts = devices connected to the internet ( referred to as end systems because they sit at the Internet's edge) . We call them hosts because they host (ie run) application programs such as a Web browser program, a Web Server program, an email client program, or an e-mail server program. 
 
  
 
-Network edge :  
+**Clients** = desktop + Mobile PCs, smartphones etc. 
+
+**Servers = more powerful machines that store and distribute web pages, stream video, relay e-mail etc 
+
+ 
+
+**Network edge** :  
 
 Desktop computers 
 
@@ -30,7 +34,7 @@ Mobile devices
 
  
 
-Access Network  
+**Access Network**  
 
 The network that physically connects an end system to the first router ( aka edge router) on a path from the end system to any other distant end system.  
 
@@ -40,9 +44,9 @@ Home Access: DSL (digital subscriber line), Cable, FTTH (fiber to the home), Dia
 
  
 
-Types of broadband residential access: 
+#### Types of broadband residential access: 
 
-DSL: a DSL modem uses the existing telephone line (twisted pair copper wire) to exchange data with a DSLAM( digital subscriber line access multiplexer) located in the telco's local central office (CO) 
+**DSL**: a DSL modem uses the existing telephone line (twisted pair copper wire) to exchange data with a DSLAM( digital subscriber line access multiplexer) located in the telco's local central office (CO) 
 
 The residential telephone line carries both data and traditional telephone signals simultaneously, which are encoded at different frequencies :  
 
@@ -58,15 +62,15 @@ A ordinary two-way telephone channel: 0 to  4kHz band
 
  
 
-Cable : requires special modems, called cable modems and both fiber and coaxial cables are employed, hybrid fiber coax (HFC) 
+**Cable** : requires special modems, called cable modems and both fiber and coaxial cables are employed, hybrid fiber coax (HFC) 
 
-CMTS : cable modem termination system turns the analog signal sent from the cable modems in many downstream homes back into digital format. 
+**CMTS** : cable modem termination system turns the analog signal sent from the cable modems in many downstream homes back into digital format. 
 
 Faster cable network : FTTH = fiber to the home – provides an optical fiber path from the CO (central office) directly to the home. 
 
-ONT = optical network terminator which is connected by dedicated optical fiber to a neighborhood splitter connecting about 100 houses onto a single, shared optical fiber, which connects to an OLT  in the telco's CO. 
+**ONT** = optical network terminator which is connected by dedicated optical fiber to a neighborhood splitter connecting about 100 houses onto a single, shared optical fiber, which connects to an OLT  in the telco's CO. 
 
-OLT = optical line terminator that provides conversion between optical and electrical signals connects to the internet via a telco router. 
+**OLT** = optical line terminator that provides conversion between optical and electrical signals connects to the internet via a telco router. 
 
  
 
