@@ -3,8 +3,8 @@
 Open system interconnection model – the model was developed by IOS – International Organization for Standardization 
 The user can communicate only with the application layer 
 
+![image](https://user-images.githubusercontent.com/72341578/155617874-b0660c4d-7b2b-40eb-881e-b5c0b61dbced.png)
 
- ![image](https://user-images.githubusercontent.com/72341578/155617762-e954e860-0afe-43bb-85a2-4d4d063a402d.png)
 
 **7th Layer** – Application layer – developers, software engineers
 1-7h will interact with all the layers HTTP 
