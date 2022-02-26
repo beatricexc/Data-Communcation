@@ -1,6 +1,5 @@
-The OSI Model (Open Systems Interconnection Model) 
-
-– 7 Layers 
+## The OSI Model (Open Systems Interconnection Model) 
+**7 Layers** 
 
  
 										           
@@ -9,7 +8,7 @@ The OSI Model (Open Systems Interconnection Model)
 
  
 
-EXAMPLE:  
+**EXAMPLE**:  
 
 Sending an email: the data travels through the OSI model, adding and processing data through each layer = ENCAPSULATION 
 
