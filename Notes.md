@@ -5,7 +5,7 @@ The OSI Model (Open Systems Interconnection Model)
  
 										           
                                
-                               ![image](https://user-images.githubusercontent.com/72341578/155861570-efb47381-f839-4de5-8ec5-5b3df0298d5c.png)
+![image](https://user-images.githubusercontent.com/72341578/155861570-efb47381-f839-4de5-8ec5-5b3df0298d5c.png)
 
  
 
